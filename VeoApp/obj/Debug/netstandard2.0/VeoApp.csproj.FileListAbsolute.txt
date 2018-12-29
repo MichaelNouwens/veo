@@ -1,0 +1,16 @@
+C:\Users\Michael\source\repos\VeoApp\VeoApp\bin\Debug\netstandard2.0\VeoApp.deps.json
+C:\Users\Michael\source\repos\VeoApp\VeoApp\bin\Debug\netstandard2.0\VeoApp.dll
+C:\Users\Michael\source\repos\VeoApp\VeoApp\bin\Debug\netstandard2.0\VeoApp.pdb
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\VeoApp.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\VeoApp.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\VeoApp.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\VeoApp.AssemblyInfo.cs
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\VeoApp.dll
+C:\Users\Michael\source\repos\VeoApp\VeoApp\obj\Debug\netstandard2.0\VeoApp.pdb
